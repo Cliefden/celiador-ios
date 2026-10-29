@@ -1,4 +1,11 @@
-# Celiador iOS
+# Celiador iOS — moved
+
+> **This repository is being retired.** Since 2026-10-29 the app lives in
+> [`Cliefden/celiador`](https://github.com/Cliefden/celiador) under
+> [`ios/`](https://github.com/Cliefden/celiador/tree/main/ios), with its full
+> history (this repo's tags are `ios-v*` there). Open issues and pull requests
+> there. This repository stays unarchived only until Xcode Cloud's products have
+> been recreated against the new one.
 
 Celiador for iPhone is the review surface of the Celiador loop. Label a GitHub
 issue `celiador` and an agent runs it in its own git worktree on your Mac (in the
